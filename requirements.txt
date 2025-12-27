@@ -1,0 +1,12 @@
+# Document processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# Database
+psycopg2-binary>=2.9.0
+
+# Environment variables
+python-dotenv>=1.0.0
