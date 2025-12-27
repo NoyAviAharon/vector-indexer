@@ -187,7 +187,6 @@ document-indexer/
 ├── requirements.txt      # Project dependencies
 ├── .env.example         # Environment variables template
 ├── .env                 # Environment variables (not saved in Git)
-├── .gitignore          # Files to ignore
 └── README.md           # This file
 ```
 
