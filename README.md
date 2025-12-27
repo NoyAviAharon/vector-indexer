@@ -249,3 +249,6 @@ Unsupported file format
 If text is split by lines instead of paragraphs/sentences:
 - Make sure you're using the latest version of the module
 - The module automatically normalizes newlines from PDFs
+
+### 👤 Author
+Noy Avi-Aharon
